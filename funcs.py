@@ -9,4 +9,6 @@ sum()
 def sub():
     print(num_2 - num_1)
 
+sub()
+
 
